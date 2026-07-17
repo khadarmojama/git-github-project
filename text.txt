@@ -2,3 +2,7 @@ Asalaamu calayku waraxmatulaahi wabarakaatuh.
 maanta waxaan practice garaynayaa Git basic commands keeda
 
 git iyo github waxay muhiim u yihiin qofka developer ka ah sidaas darteed ayaan iskaga sii dhisayaa xirfaddan
+waa inaad master ku noqotaa si aad developer sax ah u noqotid.
+
+# Tallaabooyinka lagaa rabo inaad raacdo waa:
+1. Baro basic commands ka.
