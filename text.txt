@@ -5,4 +5,5 @@ git iyo github waxay muhiim u yihiin qofka developer ka ah sidaas darteed ayaan 
 waa inaad master ku noqotaa si aad developer sax ah u noqotid.
 
 # Tallaabooyinka lagaa rabo inaad raacdo waa:
-1. Baro basic commands ka.
+1. Baro basic commands ee terminalka.
+2. Ka dib baro basic commands ka uu leeyahay Git
