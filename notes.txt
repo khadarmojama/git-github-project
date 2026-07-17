@@ -4,4 +4,5 @@ waa maxay Git?
 git waa version control software kuu ogolaanayaa inaad file tracking samayso
 
 waa maxay Github
+github waa meel kuu host gareynaysa code kii locol ka kuu ahaa.
 
