@@ -6,4 +6,6 @@ git waa version control software kuu ogolaanayaa inaad file tracking samayso
 waa maxay Github
 github waa meel kuu host gareynaysa code kii locol ka kuu ahaa.
 
-labada qofkii barta waxay ka saacideysaa inay u fududaato code qoristu
+labada qofkii barta waxay ka saacideysaa inay u fududaato code qoristu.
+
+inshaAllah bootcamp kan waan dhammaysanayaa haddana meel fiican buu noo marayaa.
